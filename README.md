@@ -152,6 +152,9 @@ The database schema is designed to support the system's core functionalities suc
 
 ### 6.1 Use Case Diagram
 
+<img width="842" height="561" alt="image" src="https://github.com/user-attachments/assets/737f4fe9-16c8-4ae2-8511-e6e7b3f1f552" />
+
+
 ### 6.2 Data Validation Rules
 
 This section outlines the key validation rules implemented across both the **Student** and **Tutor** applications. These rules ensure user inputs are complete, correct, and compatible with backend requirements.
